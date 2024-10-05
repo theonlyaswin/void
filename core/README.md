@@ -1,0 +1,1 @@
+#Void Core. Used to join the Void network, run a node, train models, mint coin.
